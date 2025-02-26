@@ -6,6 +6,13 @@ abrir terminal
 criar um projeto react native com expo:
 npx  create-expo-app@latest SilvinhaHealthApp --template  blank
 
+
+
+
 cd SilvinhaHealthApp 
 
+npm i
+
+npx expo start --localhost --android
 npx expo start --localhost
+
