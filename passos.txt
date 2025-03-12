@@ -3,6 +3,8 @@ git config --global user.email email.rhuan.etec@gmail.com
 
 abrir terminal 
 
+npm install expo
+
 criar um projeto react native com expo:
 npx  create-expo-app@latest SilvinhaHealthApp --template  blank
 
@@ -16,3 +18,15 @@ npm i
 npx expo start --localhost --android
 npx expo start --localhost
 
+--------------------------------
+
+git config --global user.name prhuanetec
+git config --global user.email email.rhuan.etec@gmail.com
+
+abrir terminal 
+
+cd nome do projeto
+
+npm i
+
+npx expo start --localhost --android
